@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Gitu Entwurf"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "피투성으로 태어났으나 기투한다."
   location         : "Somewhere"
   email            :
   links:
